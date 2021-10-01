@@ -7,7 +7,7 @@ We are working towards a standardization of spatial data deliveries to Equinor. 
 ![image](https://user-images.githubusercontent.com/56953352/135569521-7e6f30db-b1e9-44ba-ad1a-c53e460ae35f.png)
 
 In order to achieve the above, our team is working on several tasks: 
-•	Increasing the awareness of spatial data inside the company,
-•	Standardization of data deliveries containing spatial components,
-•	Platform development in MSFT Azure as displayed in building block diagram.
+- Increasing the awareness of spatial data inside the company,
+- Standardization of data deliveries containing spatial components,
+- Platform development in MSFT Azure as displayed in building block diagram.
 
